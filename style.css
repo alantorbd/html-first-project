@@ -66,9 +66,6 @@ header {
   .heading-dsc {
     text-align: center;
   }
-  * {
-    /* word-break: break-all; */
-  }
 }
 
 .description {
